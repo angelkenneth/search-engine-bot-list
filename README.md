@@ -9,6 +9,7 @@ A list of all common search engine bots's User Agent strings, matched by regular
   bing: /Bingbot/i,
   facebook: /facebookexternalhit/i,
   alexa: /ia_archiver/i,
+  twitter: /Twitterbot/i,
   yandex: /YandexBot/i,
   duckduckgo: /DuckDuckBot/i,
   entireweb: /Speedy Spider/i,
