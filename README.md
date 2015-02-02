@@ -18,7 +18,7 @@ A list of all common search engine bots's User Agent strings, matched by regular
   360: /360(Spider|User-agent)/i,
   sogou: /Sogou(\s|spider)|/i,
   soso: /Soso[ a-z\-]*?spider/i,
-  youdao: /YodaoBot/i,
+  youdao: /You?daoBot/i,
   iask: /iaskspider/i,
   unknown: /robot|crawler|spider|[a-z]bot(\s|$)/i
 }
